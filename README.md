@@ -1,7 +1,5 @@
 <div align="center">
-  <video src="./assets/banner-mythic-breeze.mp4" width="100%" autoplay muted loop playsinline poster="./assets/banner-mythic-breeze.jpg">
-    <img src="./assets/banner-mythic-breeze.gif" width="100%" alt="Darren Tarrant banner" />
-  </video>
+  <img src="./assets/banner-mythic-breeze.gif" width="100%" alt="Darren Tarrant banner" />
   <h1>Darren Tarrant</h1>
   <h3>
     <b>AI | Full-Stack Engineer | Reverse Engineer | Automation Engineer | Go • Python • TypeScript | AIO/ACO | Ticketing | Retail | APIs | Web Scraping | Monitoring</b>

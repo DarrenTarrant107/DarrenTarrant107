@@ -1,179 +1,160 @@
 <div align="center">
-  
- <div align="center" style="border-radius:100%;overflow: hidden;">
-    <img src="https://avatars.githubusercontent.com/u/31744474" width="150" alt="avatar"/>
-  </div>
-  <br/><br/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&letterSpacing=&pause=1000&color=0AB2F7&background=FFF1EA00&width=600&lines=AI+%26+Bot+%26+Automation+Engineer+%26+Reverse+engineering;AIO%2FACO+%7C+Ticketing+%7C+Retail+%7C+APIs+%7C+Web+Scraping+)](https://git.io/typing-svg)
-  <br/><br/>
-  <!-- Main description -->
-  <p align="left"> I'm worried about humanity's future.</p>
-  <p align="left"> Most people built their identities around their jobs their title, their place in a hierarchy, their usefulness to an organization. AI is about to automate a lot of that, which will cause a crisis for millions.</p>
-  <p align="left"> But I think this is also an opportunity. If we do it right, AI can free people to discover who they actually are their purposes, their gifts, the things they'd pursue even if nobody paid them.</p>
-  <p align="left"> That's what I'm working on: helping humans upgrade themselves for a post-work world.</p>
-  <h2 align="left" >👋 About Me</h2>
+  <video src="./assets/banner-mythic-breeze.mp4" width="100%" autoplay muted loop playsinline poster="./assets/banner-mythic-breeze.jpg">
+    <img src="./assets/banner-mythic-breeze.gif" width="100%" alt="Darren Tarrant banner" />
+  </video>
+  <h1>Darren Tarrant</h1>
+  <h3>
+    <b>AI | Full-Stack Engineer | Reverse Engineer | Automation Engineer | Go • Python • TypeScript | AIO/ACO | Ticketing | Retail | APIs | Web Scraping | Monitoring</b>
+  </h3>
+  <img src="./assets/divider-mythic.png" width="420" alt="" />
+</div>
 
-  <p align="left"> I specialize in reverse engineering, anti-bot research, API/protocol analysis, browser automation, and high-performance backend systems. </p>
-  <p align="left">My work includes Akamai, DataDome, and Incapsula analysis, browser fingerprinting, CAPTCHA integrations, queue systems, Android/iOS analysis, low-level debugging, web scraping, and scalable automation infrastructure.</p>
-   <p align="left"> I have experience building ACO/AIO tooling, retail automation, inventory monitors, ticket monitoring systems, real-time queue processing, account/session management, API integrations, and Discord/Whop ecosystems. 
-I've also worked on Pokémon-related automation, Walmart workflows, social automation, custom monitors, and backend services designed for high-concurrency workloads.</p>
-   <p align="left"> Beyond automation, I build AI-powered SaaS products, AI agents, RAG systems, workflow automation, mobile applications, and production-ready web platforms using modern backend and frontend technologies. </p>
- <h3 align="left"> Backed by a small team of specialized developers and researchers, enabling us to deliver everything from rapid prototypes to large-scale engineering projects and long-term collaborations. </h3>
-
-  <br/>
-  <!-- Tech stack icons -->
- <h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️</h2>
- 
 <br/>
+
+### Perspective
+
+I build under contested conditions: protected APIs, brittle retail paths, queues that cannot stall, and browsers that resist automation. The craft is technical. The aim is practical — remove friction without erasing the human part of the work.
+
+Titles alone will not hold as routine labour is automated. That pressure is why I focus on systems that free attention rather than flatten it.
+
+<img src="./assets/divider-mythic.png" width="220" alt="" />
+
+### Focus
+
+**AI** — agents, retrieval pipelines, and workflow automation that ship in production, not demos.
+
+**Full-Stack Engineer** — services, interfaces, and data paths that stay coherent from request to delivery.
+
+**Reverse Engineer** — protocol and protection analysis when the surface API is incomplete or actively hostile.
+
+**Automation Engineer** — durable bots, monitors, and orchestration for high-concurrency workloads.
+
+Highlighted domains:
+
+- **Go • Python • TypeScript** for services, tooling, and product surfaces
+- **AIO / ACO** for checkout and acquisition systems under load
+- **Ticketing** and **Retail** flows: inventory, sessions, accounts, and recovery paths
+- **APIs**, **Web Scraping**, and **Monitoring** for signal, scale, and early failure detection
+
+I work with a small group of engineers and researchers — short prototypes when speed matters, longer engagements when reliability does.
+
+<img src="./assets/divider-mythic.png" width="220" alt="" />
+
+### Tools
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /><br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>React
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /><br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /><br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" /><br>Rest API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" /><br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br>GitLab
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br>JQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" /><br>ASP.NET
     </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+      <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" /><br>Sentry
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="Celery" /><br>Celery
+    </td>
+    <td align="center" width="96">
+      <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="Docusaurus" /><br>Docusaurus
+    </td>
+    <td align="center" width="96">
+      <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="Pytest" /><br>Pytest
     </td>
   </tr>
 </table>
- 
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<img src="./assets/divider-mythic.png" width="220" alt="" />
 
-<h2 align="left"><img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time </h2>
+### Activity
 
 <p align="center">
-    <a href="#">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarrenTarrant107&show_icons=true&hide_border=true&bg_color=00000000&title_color=8EB6D8&icon_color=8EB6D8&text_color=9AA4B2&custom_title=Darren%20Tarrant%27s%20GitHub%20Stats" alt="Darren Tarrant's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenTarrant107&layout=compact&hide_border=true&bg_color=00000000&title_color=8EB6D8&text_color=9AA4B2" alt="Most used languages" />
 </p>
 
+<img src="./assets/divider-mythic.png" width="220" alt="" />
 
-<p align="center"><img src="./github-contribution-grid-snake.svg"></p>
-
-<h2 align="center">📩 Connect with me</h2>
+### Correspondence
 
 <p align="center">
-  <a href="mailto:tomoe.engineer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:darrentarrant2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-darrentarrant2%40gmail.com-4A5568?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/lucky_TG007">
-    <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  &nbsp;
+  <a href="https://wa.me/447418355740">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B44%207418%20355740-4A5568?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-    <a href="https://discord.com/users/553258638441971742">
-    <img src="https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
-  </a> 
-
-
-
-
+  &nbsp;
+  <a href="https://t.me/Darren_Tarrant">
+    <img src="https://img.shields.io/badge/Telegram-%40Darren__Tarrant-4A5568?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>

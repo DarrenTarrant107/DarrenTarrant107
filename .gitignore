@@ -1,0 +1,10 @@
+# Local / build leftovers (not part of the GitHub profile)
+.tmp-*/
+.git-rewrite/
+assets/ffmpeg/
+assets/ffmpeg-*.zip
+assets/banner_frames/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
